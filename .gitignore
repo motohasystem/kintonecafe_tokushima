@@ -1,0 +1,5 @@
+*.bkp
+*.dtmp
+.vscode
+dist/
+materials/
