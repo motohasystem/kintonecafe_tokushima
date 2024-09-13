@@ -16,7 +16,7 @@ if exist %DST_PATH%\%FILEBODY%.png (
 )
 echo 🧑‍🔧 - build: [%SRC_PATH%\%FILEBODY%] html版スライドを生成します
 call marp %SRC_PATH%\%FILEBODY%.md -o %DST_PATH%\%FILEBODY%.html --theme themes\mytheme.css --title %TITLE% --allow-local-files --og-image %FILEBODY%.png --html --description %DESCRIPTION% --author %AUTHOR%
-call python .\themes\imagecopy.py %SRC_PATH%\%FILEBODY%.md %DST_PATH%\img
+call python .\themes\imagecopy.py %SRC_PATH%\%FILEBODY%.md %DST_PATH%\img --movie_dist %DST_PATH%\movie
 
 @REM echo 🧑‍🔧 - build: [%SRC_PATH%\%FILEBODY%] PDF版スライドを生成します
 @REM call marp %SRC_PATH%\%FILEBODY%.md -o %DST_PATH%\%FILEBODY%.pdf --theme themes\mytheme.css --title %TITLE% --allow-local-files --og-image %SRC_PATH%\%FILEBODY%.png --pdf
