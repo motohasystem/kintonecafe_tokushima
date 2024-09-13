@@ -16,6 +16,22 @@ size: 16:9
 ![bg right:40% 100%](img/wifi_toecradio.png)
 
 #
+## kintone Café 徳島 Vol.7
+## スダチの季節
+
+2024/9/14
+kintone徳島UG
+![bg fit 100% opacity:0.7](img/テーブル上のスダチ.png)
+
+#
+![bg fit](img/里山みらいTOP.png)
+
+#
+![bg fit 100%](img/テーブル上のスダチ.png)
+
+<video src="./movie/里山みらい.mp4" width="1024px" controls autoplay></video>
+
+#
 ![bg](img/cafe_tokushima_vol7.png)
 
 >>> 主催: kintone徳島UG (https://kintone-cafe-tokushima.connpass.com/)
@@ -38,13 +54,21 @@ kintone Caféは、まだkintoneに触れたことの無い方から、
 kintoneの魅力や活用法をみんなで共有するための
 勉強会コミュニティです。
 
-
 #
 
 ## kintone Caféが目指すところ
 kintoneを、今や社会人としての必須スキルであるExcelと同じくらいあるいはそれ以上の存在に育て・普及させていくことを目指します。 
 
 また、kintone Caféを核としたkintoneエコシステムを醸成し、コミュニティに参加・貢献する個人とそれを支援する企業にとってメリットのある場にしていきます。
+
+# kintone Café 徳島で目指したいところ（情緒）
+
+気軽に参加できて、
+ゆるく手札を持ち寄れて、
+持ってる課題を見せあって、
+みんなで美味しいものを食べる
+
+そういう会を（徳島でも）定期的に持っていたい。
 
 
 #
